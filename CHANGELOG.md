@@ -1,5 +1,8 @@
 # CloudMine JavaScript Library Change Log
 
+## 0.9.21
+* Add support for v2 Elasticsearch endpoints 
+
 ## 0.9.18
 * Bring develop and master into parity with each other
 
